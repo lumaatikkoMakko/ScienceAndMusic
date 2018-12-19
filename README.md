@@ -18,7 +18,7 @@ The hammer of Odin
 Missing the instrument
 
 # PVC hammond
-The idea
+The idea of creating plastic Hammond
 
 # Theremin
 And the oscilloscope
