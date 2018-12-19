@@ -9,21 +9,21 @@ See www.luntti.net/sci/music
 
 
 # Rubens Tube
-The flaming music
+The flaming music.
 
 # Vertical Xylophone
-The hammer of Odin
+The hammer of Odin.
 
 # Circular pneumatic Xylophone
-Missing the instrument
+Missing the instrument.
 
 # PVC hammond
-The idea of creating plastic Hammond
+The idea of creating the plastic Hammond.
 
 # Theremin
-And the oscilloscope
+And the oscilloscope.
 
 # Laserharp
-A'la Jean Michel Jarre
+A'la Jean Michel Jarre.
 
  
