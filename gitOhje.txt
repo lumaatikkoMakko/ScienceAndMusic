@@ -1,6 +1,6 @@
 
 $ git clone https://github.com/AlracWebmaven/playground.git
-$ git checkout -b test
+$ git checkout -b testbranch
 Switched to a new branch 'test'
 
 $git status
@@ -11,7 +11,7 @@ $ git commit -a
 
 $ git log --branches --not --remotes
 
-$ git push origin test
+$ git push origin master 
 
 
 
