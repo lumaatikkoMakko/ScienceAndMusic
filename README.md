@@ -12,7 +12,7 @@ See www.luntti.net/sci/music
 
 # Vertical Xylophone
 
-# Circular pnematic Xylophone
+# Circular pneumatic Xylophone
 
 # PVC hammond
 
